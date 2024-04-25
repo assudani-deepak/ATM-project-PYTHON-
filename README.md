@@ -16,13 +16,27 @@ This README offers a concise overview of the project, highlighting its functiona
 
 ![ATM1](https://github.com/assudani-deepak/ATM-project-PYTHON-/assets/168087466/dda28b04-56b8-4bdb-9d58-30aafb1ab4be)
 
+PIN access:
+
 ![ATM.PIN](https://github.com/assudani-deepak/ATM-project-PYTHON-/assets/168087466/8a848af0-0f67-41ec-9b56-5c8e7e9ed03d)
+
+
+Screen clear:
 
 ![Screen.clear](https://github.com/assudani-deepak/ATM-project-PYTHON-/assets/168087466/2877f993-f373-4553-bf04-9ee9aac34d16)
 
+
+Cash withdrawal screen:
+
 ![ATM.withdraw](https://github.com/assudani-deepak/ATM-project-PYTHON-/assets/168087466/b9d2f5b5-ad90-4a7c-a4f2-0bcd93d7b44c)
 
+
+Cash deposit screen:
+
 ![ATM.deposit](https://github.com/assudani-deepak/ATM-project-PYTHON-/assets/168087466/45df0ce9-f5ba-4c05-8dc9-08c7b489874d)
+
+
+Task record:
 
 ![ATM.tasks](https://github.com/assudani-deepak/ATM-project-PYTHON-/assets/168087466/c303fa81-0ba7-408c-a4e9-0c09e3871573)
 
